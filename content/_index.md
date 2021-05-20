@@ -1,5 +1,11 @@
 ---
-title: "Homepage"
+title: Hugo Documentation Helper
 ---
 
-Cillum cillum mollit voluptate aute proident occaecat voluptate et ullamco mollit minim anim mollit. Magna est officia dolore laboris officia esse. Exercitation adipisicing ea culpa labore ut. Officia est elit esse tempor culpa non. Commodo deserunt veniam magna id velit in aute in nostrud officia eiusmod.
+Usage Examples:
+
+[Example 1](/one/)
+
+[Example 2](/two/)
+
+---

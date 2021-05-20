@@ -2,9 +2,10 @@
 <section class="container">
   
   {{ .Content }}
-  {{ range site.RegularPages }}
-  {{ .Permalink }}
-  {{ end }}
+  
+  {{ $readme := readFile "README.md" }}
+  {{ $readme | markdownify }}
+  
 
 </section>
 

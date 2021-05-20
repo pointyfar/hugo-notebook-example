@@ -15,25 +15,17 @@ title: "One"
 {{< /notebook-helper/notebook >}}
 
 {{< notebook-helper/notebook >}}
-{{ $f := site.GetPage "feature" }}
+{{ $f := site.GetPage "one" }}
 {{ $f }}
 <br>
 {{ $f.Title }}
-<br>
-<br>
-
-{{ range $f.RegularPages }}
-    {{ .Permalink }} <br>
-{{ end }}
 {{< /notebook-helper/notebook >}}
 
 
 {{< notebook-helper/notebook >}}
-
 <ul>
 {{ range $i, $e := first 5 site.Pages }}
 <li>{{.Title}}</li>
 {{ end }}
 </ul>
-
 {{< /notebook-helper/notebook >}}

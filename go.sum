@@ -10,3 +10,5 @@ github.com/pointyfar/hugo-notebook v0.0.0-20210520124956-3798ef915244 h1:7rShjKN
 github.com/pointyfar/hugo-notebook v0.0.0-20210520124956-3798ef915244/go.mod h1:QAEfhtEk+zgtpqUxVNbvM1ilWI9ilJcR2UC5rxYMHAY=
 github.com/pointyfar/hugo-notebook v0.0.0-20210520130823-f4e7d58f2b18 h1:f/O2RX1WvimZlNPrc5TEsVMIfZzespS5Pwvm6w0yU/s=
 github.com/pointyfar/hugo-notebook v0.0.0-20210520130823-f4e7d58f2b18/go.mod h1:QAEfhtEk+zgtpqUxVNbvM1ilWI9ilJcR2UC5rxYMHAY=
+github.com/pointyfar/hugo-notebook v0.0.0-20210520131405-70e110e23821 h1:t5PhL5ZZz44wjuOmyZdm+4/8CM5cPZlFU46Me9gyvOs=
+github.com/pointyfar/hugo-notebook v0.0.0-20210520131405-70e110e23821/go.mod h1:QAEfhtEk+zgtpqUxVNbvM1ilWI9ilJcR2UC5rxYMHAY=
