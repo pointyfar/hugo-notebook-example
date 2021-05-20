@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section class="container">
+  
+  {{ .Content }}
+  {{ range site.RegularPages }}
+  {{ .Permalink }}
+  {{ end }}
+
+</section>
+
+{{ end }}

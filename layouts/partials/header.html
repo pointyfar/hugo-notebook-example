@@ -1,0 +1,12 @@
+<header class="header">
+    <section class="container">
+        <div class="hero-text">
+        <h1 class="fancy">{{.Title}} </h1>
+        <h2 class="subtitle fancy">{{.Params.subtitle}}</h2>
+        {{ with .Params.author }}
+        <h3 class="subtitle">by {{.}}</h3>
+        {{ end }}
+        </div>
+        
+    </section>
+</header>

@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[module]
+[[module.imports]]
+    path = "github.com/milligram/milligram"
+    [[module.imports.mounts]]
+        source = "src"
+        target = "assets/milligram"
+[[module.imports]]
+    path = "github.com/pointyfar/hugo-notebook"
+    [[module.imports.mounts]]
+        source = "assets"
+        target = "assets"
+    [[module.imports.mounts]]
+        source = "layouts"
+        target = "layouts"
+
+[[module.mounts]]
+  source = "static"
+  target = "static"
+
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+
+[[module.mounts]]
+  source = "content"
+  target = "content"

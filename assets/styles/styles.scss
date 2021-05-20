@@ -1,0 +1,33 @@
+@import './../milligram/milligram.sass';
+@import './../docuhelper/styles';
+
+.header {
+    //display: none;
+    //margin-top: 4.5rem;
+    margin-bottom: 5rem;
+    padding: 10rem 0;
+    top: 4rem;
+    background-color: $color-tertiary;
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        //border: 5px solid green;
+        height: 100%;
+        justify-content: space-between;
+        align-items: center;
+        .hero-text {
+            z-index: 100;
+            width: 100%;
+            padding: 5rem 4rem;
+            text-align: center;
+            button {
+                margin-top: 6rem;
+            }
+        }
+
+    }
+
+}
+

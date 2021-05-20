@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        <main class="wrapper">
+            {{- partial "header.html" . -}}
+            {{- block "main" . }}
+                <section class="container">
+                {{ .Content }}
+                </section>
+            {{- end }}
+        </main>
+        {{- partial "footer.html" . -}}
+        {{ partial "notebook-helper/notebook" . }}
+        {{ if .HasShortcode "notebook-helper/notebook" }}
+        {{ end }}
+    </body>
+</html>
