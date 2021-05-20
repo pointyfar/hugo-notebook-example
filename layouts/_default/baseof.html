@@ -11,8 +11,8 @@
             {{- end }}
         </main>
         {{- partial "footer.html" . -}}
-        {{ partial "notebook-helper/notebook" . }}
         {{ if .HasShortcode "notebook-helper/notebook" }}
+            {{ partial "notebook-helper/notebook-script" . }}
         {{ end }}
     </body>
 </html>

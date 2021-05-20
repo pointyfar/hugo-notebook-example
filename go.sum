@@ -2,3 +2,11 @@ github.com/milligram/milligram v1.4.1 h1:gjkTCa7k/Tttfr4R/vF+d5wotcsZPb9vEKOH0fC
 github.com/milligram/milligram v1.4.1/go.mod h1:UokZj6fq+9lPDaB2I8yH9OMnfsWjPnxPaH0VxtZMk1k=
 github.com/pointyfar/hugo-notebook v0.0.0-20210520122803-377db970af33 h1:bBmHktjx5zvAhzSIs9OpBJlnfS1J/xmtqTCiP/wNxwc=
 github.com/pointyfar/hugo-notebook v0.0.0-20210520122803-377db970af33/go.mod h1:QAEfhtEk+zgtpqUxVNbvM1ilWI9ilJcR2UC5rxYMHAY=
+github.com/pointyfar/hugo-notebook v0.0.0-20210520123542-98d44056ee97 h1:k4f69mRX0qfcfTdCG2QlApuXT0FJEfCETnGVJUMiqDo=
+github.com/pointyfar/hugo-notebook v0.0.0-20210520123542-98d44056ee97/go.mod h1:QAEfhtEk+zgtpqUxVNbvM1ilWI9ilJcR2UC5rxYMHAY=
+github.com/pointyfar/hugo-notebook v0.0.0-20210520124329-840233531dbd h1:eUXcyqI9tlyokFmhvALtBXM/7NjDUBuK2AKYrlmLNsQ=
+github.com/pointyfar/hugo-notebook v0.0.0-20210520124329-840233531dbd/go.mod h1:QAEfhtEk+zgtpqUxVNbvM1ilWI9ilJcR2UC5rxYMHAY=
+github.com/pointyfar/hugo-notebook v0.0.0-20210520124956-3798ef915244 h1:7rShjKNoy66i+ZEO55OuGAZMMboAGvsAR2oGKfgaefU=
+github.com/pointyfar/hugo-notebook v0.0.0-20210520124956-3798ef915244/go.mod h1:QAEfhtEk+zgtpqUxVNbvM1ilWI9ilJcR2UC5rxYMHAY=
+github.com/pointyfar/hugo-notebook v0.0.0-20210520130823-f4e7d58f2b18 h1:f/O2RX1WvimZlNPrc5TEsVMIfZzespS5Pwvm6w0yU/s=
+github.com/pointyfar/hugo-notebook v0.0.0-20210520130823-f4e7d58f2b18/go.mod h1:QAEfhtEk+zgtpqUxVNbvM1ilWI9ilJcR2UC5rxYMHAY=

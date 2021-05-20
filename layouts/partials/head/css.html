@@ -2,3 +2,5 @@
 {{ $style := $scss | resources.ToCSS }}
 
 <link rel="stylesheet" href="{{$style.Permalink}} " >
+
+{{/* partial "notebook-helper/notebook-style" . */}}
